@@ -1,4 +1,4 @@
-int currentLED = D0; 
+volatile int currentLED = D0; 
 
 void setup() {
   pinMode(D0, OUTPUT);    
@@ -6,9 +6,6 @@ void setup() {
   pinMode(D2, OUTPUT);   
   attachInterrupt(D3, buttonInterrupt, RISING); 
  
-  digitalWrite(D0, LOW);
-  digitalWrite(D1, LOW);
-  digitalWrite(D2, LOW);
 }
 
 void loop() {

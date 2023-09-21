@@ -7,9 +7,6 @@ void setup() {
   pinMode(D2, OUTPUT);   
   pinMode(D3, INPUT);      
 
-  // digitalWrite(D0, LOW);
-  // digitalWrite(D1, LOW);
-  // digitalWrite(D2, LOW);
 }
 
 void loop() {

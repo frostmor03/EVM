@@ -1,0 +1,14 @@
+C:\Users\maxam\OneDrive\Документы\ЭВМ\Lab1C\bin\Debug\net6.0\Lab1C.exe
+C:\Users\maxam\OneDrive\Документы\ЭВМ\Lab1C\bin\Debug\net6.0\Lab1C.deps.json
+C:\Users\maxam\OneDrive\Документы\ЭВМ\Lab1C\bin\Debug\net6.0\Lab1C.runtimeconfig.json
+C:\Users\maxam\OneDrive\Документы\ЭВМ\Lab1C\bin\Debug\net6.0\Lab1C.dll
+C:\Users\maxam\OneDrive\Документы\ЭВМ\Lab1C\bin\Debug\net6.0\Lab1C.pdb
+C:\Users\maxam\OneDrive\Документы\ЭВМ\Lab1C\obj\Debug\net6.0\Lab1C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxam\OneDrive\Документы\ЭВМ\Lab1C\obj\Debug\net6.0\Lab1C.AssemblyInfoInputs.cache
+C:\Users\maxam\OneDrive\Документы\ЭВМ\Lab1C\obj\Debug\net6.0\Lab1C.AssemblyInfo.cs
+C:\Users\maxam\OneDrive\Документы\ЭВМ\Lab1C\obj\Debug\net6.0\Lab1C.csproj.CoreCompileInputs.cache
+C:\Users\maxam\OneDrive\Документы\ЭВМ\Lab1C\obj\Debug\net6.0\Lab1C.dll
+C:\Users\maxam\OneDrive\Документы\ЭВМ\Lab1C\obj\Debug\net6.0\refint\Lab1C.dll
+C:\Users\maxam\OneDrive\Документы\ЭВМ\Lab1C\obj\Debug\net6.0\Lab1C.pdb
+C:\Users\maxam\OneDrive\Документы\ЭВМ\Lab1C\obj\Debug\net6.0\Lab1C.genruntimeconfig.cache
+C:\Users\maxam\OneDrive\Документы\ЭВМ\Lab1C\obj\Debug\net6.0\ref\Lab1C.dll

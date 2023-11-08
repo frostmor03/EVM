@@ -1,0 +1,14 @@
+C:\Users\maxam\Документы\ЭВМ\Lab2C\bin\Debug\net8.0\Lab2C.exe
+C:\Users\maxam\Документы\ЭВМ\Lab2C\bin\Debug\net8.0\Lab2C.deps.json
+C:\Users\maxam\Документы\ЭВМ\Lab2C\bin\Debug\net8.0\Lab2C.runtimeconfig.json
+C:\Users\maxam\Документы\ЭВМ\Lab2C\bin\Debug\net8.0\Lab2C.dll
+C:\Users\maxam\Документы\ЭВМ\Lab2C\bin\Debug\net8.0\Lab2C.pdb
+C:\Users\maxam\Документы\ЭВМ\Lab2C\obj\Debug\net8.0\Lab2C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxam\Документы\ЭВМ\Lab2C\obj\Debug\net8.0\Lab2C.AssemblyInfoInputs.cache
+C:\Users\maxam\Документы\ЭВМ\Lab2C\obj\Debug\net8.0\Lab2C.AssemblyInfo.cs
+C:\Users\maxam\Документы\ЭВМ\Lab2C\obj\Debug\net8.0\Lab2C.csproj.CoreCompileInputs.cache
+C:\Users\maxam\Документы\ЭВМ\Lab2C\obj\Debug\net8.0\Lab2C.dll
+C:\Users\maxam\Документы\ЭВМ\Lab2C\obj\Debug\net8.0\refint\Lab2C.dll
+C:\Users\maxam\Документы\ЭВМ\Lab2C\obj\Debug\net8.0\Lab2C.pdb
+C:\Users\maxam\Документы\ЭВМ\Lab2C\obj\Debug\net8.0\Lab2C.genruntimeconfig.cache
+C:\Users\maxam\Документы\ЭВМ\Lab2C\obj\Debug\net8.0\ref\Lab2C.dll

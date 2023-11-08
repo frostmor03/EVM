@@ -1,0 +1,14 @@
+C:\Users\maxam\Документы\ЭВМ\Lab2S\bin\Debug\net8.0\Lab2S.exe
+C:\Users\maxam\Документы\ЭВМ\Lab2S\bin\Debug\net8.0\Lab2S.deps.json
+C:\Users\maxam\Документы\ЭВМ\Lab2S\bin\Debug\net8.0\Lab2S.runtimeconfig.json
+C:\Users\maxam\Документы\ЭВМ\Lab2S\bin\Debug\net8.0\Lab2S.dll
+C:\Users\maxam\Документы\ЭВМ\Lab2S\bin\Debug\net8.0\Lab2S.pdb
+C:\Users\maxam\Документы\ЭВМ\Lab2S\obj\Debug\net8.0\Lab2S.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxam\Документы\ЭВМ\Lab2S\obj\Debug\net8.0\Lab2S.AssemblyInfoInputs.cache
+C:\Users\maxam\Документы\ЭВМ\Lab2S\obj\Debug\net8.0\Lab2S.AssemblyInfo.cs
+C:\Users\maxam\Документы\ЭВМ\Lab2S\obj\Debug\net8.0\Lab2S.csproj.CoreCompileInputs.cache
+C:\Users\maxam\Документы\ЭВМ\Lab2S\obj\Debug\net8.0\Lab2S.dll
+C:\Users\maxam\Документы\ЭВМ\Lab2S\obj\Debug\net8.0\refint\Lab2S.dll
+C:\Users\maxam\Документы\ЭВМ\Lab2S\obj\Debug\net8.0\Lab2S.pdb
+C:\Users\maxam\Документы\ЭВМ\Lab2S\obj\Debug\net8.0\Lab2S.genruntimeconfig.cache
+C:\Users\maxam\Документы\ЭВМ\Lab2S\obj\Debug\net8.0\ref\Lab2S.dll

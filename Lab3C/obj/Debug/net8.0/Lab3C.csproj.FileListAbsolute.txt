@@ -1,0 +1,14 @@
+C:\Users\maxam\Документы\ЭВМ\Lab3C\bin\Debug\net8.0\Lab3C.exe
+C:\Users\maxam\Документы\ЭВМ\Lab3C\bin\Debug\net8.0\Lab3C.deps.json
+C:\Users\maxam\Документы\ЭВМ\Lab3C\bin\Debug\net8.0\Lab3C.runtimeconfig.json
+C:\Users\maxam\Документы\ЭВМ\Lab3C\bin\Debug\net8.0\Lab3C.dll
+C:\Users\maxam\Документы\ЭВМ\Lab3C\bin\Debug\net8.0\Lab3C.pdb
+C:\Users\maxam\Документы\ЭВМ\Lab3C\obj\Debug\net8.0\Lab3C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxam\Документы\ЭВМ\Lab3C\obj\Debug\net8.0\Lab3C.AssemblyInfoInputs.cache
+C:\Users\maxam\Документы\ЭВМ\Lab3C\obj\Debug\net8.0\Lab3C.AssemblyInfo.cs
+C:\Users\maxam\Документы\ЭВМ\Lab3C\obj\Debug\net8.0\Lab3C.csproj.CoreCompileInputs.cache
+C:\Users\maxam\Документы\ЭВМ\Lab3C\obj\Debug\net8.0\Lab3C.dll
+C:\Users\maxam\Документы\ЭВМ\Lab3C\obj\Debug\net8.0\refint\Lab3C.dll
+C:\Users\maxam\Документы\ЭВМ\Lab3C\obj\Debug\net8.0\Lab3C.pdb
+C:\Users\maxam\Документы\ЭВМ\Lab3C\obj\Debug\net8.0\Lab3C.genruntimeconfig.cache
+C:\Users\maxam\Документы\ЭВМ\Lab3C\obj\Debug\net8.0\ref\Lab3C.dll
